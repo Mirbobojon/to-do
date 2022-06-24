@@ -1,0 +1,66 @@
+img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.container {
+    background-image: url(cover.jpg);
+    display: flex;
+    justify-content: space-around;
+    height: 800px;
+}
+
+.card1{
+    border: 3px solid red;
+    text-align: center;
+    background-color: coral;
+    height: 300px;
+    width: 180px;
+}
+
+.card2{
+    border: 3px solid red;
+    text-align: center;
+    background-color: coral;
+    height: 300px;
+    width: 180px;
+}
+
+.card3{
+    border: 3px solid  red;
+    text-align: center;
+    background-color: coral;
+    height: 300px;
+    width: 180px;
+}
+
+.fa-youtube {
+    color: red;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.fa-facebook {
+    color: blue;
+    font-size: 25px;
+}
+
+.fa-telegram {
+    color: dodgerblue;
+    font-size: 25px;
+}
+
+
+
+/* .fa-facebook:hover {
+    color: chartreuse;
+}
+
+.fa-youtube:hover {
+    color: blue;
+}
+
+.fa-telegram:hover {
+    color: crimson;
+} */
